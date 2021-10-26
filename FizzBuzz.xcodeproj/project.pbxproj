@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D8312692272793DE007DCE90 /* FizBuzz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FizBuzz.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8312692272793DE007DCE90 /* FizzBuzz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FizzBuzz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8312695272793DE007DCE90 /* FizBuzzApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizBuzzApp.swift; sourceTree = "<group>"; };
 		D8312697272793DE007DCE90 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D8312699272793E0007DCE90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -35,7 +35,7 @@
 		D8312689272793DE007DCE90 = {
 			isa = PBXGroup;
 			children = (
-				D8312694272793DE007DCE90 /* FizBuzz */,
+				D8312694272793DE007DCE90 /* FizzBuzz */,
 				D8312693272793DE007DCE90 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,12 +43,12 @@
 		D8312693272793DE007DCE90 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D8312692272793DE007DCE90 /* FizBuzz.app */,
+				D8312692272793DE007DCE90 /* FizzBuzz.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D8312694272793DE007DCE90 /* FizBuzz */ = {
+		D8312694272793DE007DCE90 /* FizzBuzz */ = {
 			isa = PBXGroup;
 			children = (
 				D8312695272793DE007DCE90 /* FizBuzzApp.swift */,
@@ -56,7 +56,7 @@
 				D8312699272793E0007DCE90 /* Assets.xcassets */,
 				D831269B272793E0007DCE90 /* Preview Content */,
 			);
-			path = FizBuzz;
+			path = FizzBuzz;
 			sourceTree = "<group>";
 		};
 		D831269B272793E0007DCE90 /* Preview Content */ = {
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D8312691272793DE007DCE90 /* FizBuzz */ = {
+		D8312691272793DE007DCE90 /* FizzBuzz */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D83126A0272793E0007DCE90 /* Build configuration list for PBXNativeTarget "FizBuzz" */;
+			buildConfigurationList = D83126A0272793E0007DCE90 /* Build configuration list for PBXNativeTarget "FizzBuzz" */;
 			buildPhases = (
 				D831268E272793DE007DCE90 /* Sources */,
 				D831268F272793DE007DCE90 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = FizBuzz;
+			name = FizzBuzz;
 			productName = FizBuzz;
-			productReference = D8312692272793DE007DCE90 /* FizBuzz.app */;
+			productReference = D8312692272793DE007DCE90 /* FizzBuzz.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D831268D272793DE007DCE90 /* Build configuration list for PBXProject "FizBuzz" */;
+			buildConfigurationList = D831268D272793DE007DCE90 /* Build configuration list for PBXProject "FizzBuzz" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D8312691272793DE007DCE90 /* FizBuzz */,
+				D8312691272793DE007DCE90 /* FizzBuzz */,
 			);
 		};
 /* End PBXProject section */
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"FizBuzz/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FizzBuzz/Preview Content\"";
 				DEVELOPMENT_TEAM = 2C89D7FYA2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -298,7 +298,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"FizBuzz/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FizzBuzz/Preview Content\"";
 				DEVELOPMENT_TEAM = 2C89D7FYA2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D831268D272793DE007DCE90 /* Build configuration list for PBXProject "FizBuzz" */ = {
+		D831268D272793DE007DCE90 /* Build configuration list for PBXProject "FizzBuzz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D831269E272793E0007DCE90 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D83126A0272793E0007DCE90 /* Build configuration list for PBXNativeTarget "FizBuzz" */ = {
+		D83126A0272793E0007DCE90 /* Build configuration list for PBXNativeTarget "FizzBuzz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D83126A1272793E0007DCE90 /* Debug */,
